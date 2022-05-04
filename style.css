@@ -16,19 +16,11 @@ a{
 }
 
 
-
-.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-    border-color: #101010;
+#allign{
+    text-align:center;
 }
 
-
-.navbar-collapse {
-    padding-right: 15px;
-    padding-left: 15px;
-    overflow-x: visible;
-    border-top: 1px solid transparent;
-    -webkit-box-shadow: inset 0 1px 0 rgb(255 255 255 / 10%);
-    box-shadow: inset 0 1px 0 rgb(255 255 255 / 10%);
-    -webkit-overflow-scrolling: touch;
+#navbar{
+    background-color:black;
 }
 
