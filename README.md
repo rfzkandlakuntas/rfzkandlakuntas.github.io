@@ -1,1 +1,1 @@
-# rfzkandlakuntas.github.io
+# rfzkandlakuntas.com
